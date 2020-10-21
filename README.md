@@ -16,7 +16,7 @@
 
 ---
 
-# This is a fork of Facebook's MMF framework.
+## This is a fork of Facebook's MMF framework.
 
 MMF is a modular framework for vision and language multimodal research from Facebook AI Research. MMF contains reference implementations of state-of-the-art vision and language models and has powered multiple research projects at Facebook AI Research. See full list of project inside or built on MMF [here](https://mmf.sh/docs/notes/projects).
 
